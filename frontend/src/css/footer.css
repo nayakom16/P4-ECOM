@@ -1,0 +1,13 @@
+.footer-section1{
+    background-color: rgba(112, 128, 144, 0.553);
+    padding: 20px 0;
+
+    & .footer-content p{
+        font-size: 10px;
+        letter-spacing: 1.5px;
+        word-spacing: 2px;
+        font-weight: bold;
+        color: rgba(0, 0, 0, 0.293);
+        text-align: center;
+    }
+}
